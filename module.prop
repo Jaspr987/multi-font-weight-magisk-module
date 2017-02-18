@@ -1,8 +1,8 @@
-id=template
-name=Template Module
+id=multi_font_weight
+name=Multi Font Weight for CJK(for Andorid 7.0+)
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
-support=http://forum.xda-developers.com/showthread.php?t=3432382
+author=Jaspr
+description=Add thin/light/medium/bold/black font weight for CJK fonts. Made for Android 7.0+ only!!!
+support=https://github.com/Jaspr987/magisk-module-template
 donate=http://topjohnwu.github.io/donate
